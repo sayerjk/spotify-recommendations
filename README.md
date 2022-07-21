@@ -1,2 +1,2 @@
 ## Spotify Song Recommendations
-A web app work in progress drawing from Spotify's song database to identify similar song to user's input with k-nearest neighbors regression.
+A work in progress using the Spotify API to match 5 most similar songs to user's input song. Matches found using [k-nearest neightbors](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NearestNeighbors.html#sklearn.neighbors.NearestNeighbors) from scikit-learn.
